@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Esferas.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Exemplo2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Gamut.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>OpenGLHW.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B718B44A18D92C7E00D4279A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B718B45E18D931FE00D4279A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7F3996A18F44E8100057156</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7F3997918F45EE300057156</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7F3998818F4628900057156</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
