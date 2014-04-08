@@ -7,7 +7,7 @@
 static void Init ()
 {
     float white[4] = {1.0f,1.0f,1.0f,1.0f};
-    glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
+    glClearColor(0, 0, 0, 1.0f);
     glEnable(GL_DEPTH_TEST);
     
     glEnable(GL_LIGHTING);
@@ -44,7 +44,23 @@ static void Display (void)
     glLoadIdentity();
     
     // load manipulator matrix
-    gluLookAt(0,7,15,0,0,0,0,1,0);
+    gluLookAt(5,10,30,
+              5,5,0,
+              0,1,0);
+    
+    glBegin(GL_LINES);
+    glColor3f(1, 0, 0);
+    glVertex3f(0, 0, 0);
+    glVertex3f(20, 0, 0);
+    
+    glColor3f(0, 1, 0);
+    glVertex3f(0, 0, 0);
+    glVertex3f(0, 20, 0);
+    
+    glColor3f(0, 0, 1);
+    glVertex3f(0, 0, 0);
+    glVertex3f(0, 0, 20);
+    glEnd();
     
     
     // draw scene

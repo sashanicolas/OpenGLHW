@@ -1,0 +1,220 @@
+TExemplo3
+v6
+r1
+cCheck dependencies
+cCompileC build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo3 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000532B9B6700000000000000AA
+t1395366759
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268268B000000000000044C
+t1382557323
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B9B4600000000000001DE
+t1395366726
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B9B490000000000000ADC
+t1395366729
+s2780
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c0000000052691A1500000000000F71B0
+t1382619669
+s1012144
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000530D5B6E000000000002C960
+t1393384302
+s182624
+
+N/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp
+c00000000534438190000000000000AB0
+t1396979737
+s2736
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo3
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/Exemplo3.LinkFileList
+c000000005344381D000000000000006D
+t1396979741
+s109
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o
+t1396979741
+s9572
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6493289d6ff4b841^23852e9d6ff4b841^---0#1#1#--18"Check dependencies36"83962BE9-CBCD-4CA4-8AE4-9DD3F78863DE-
+
+CCompileC build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s418672541.192064
+e418672541.686112
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o
+x/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:78:5: warning: 'glutSolidTeapot' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutSolidTeapot (1.0);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:581:22: note: 'glutSolidTeapot' declared here
+oextern void APIENTRY glutSolidTeapot(GLdouble size) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:83:9: warning: 'glutWireTeapot' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutWireTeapot (1.01);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:580:22: note: 'glutWireTeapot' declared here
+oextern void APIENTRY glutWireTeapot(GLdouble size) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:97:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutSwapBuffers ();
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:102:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutInitWindowSize     (600, 400);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:103:5: warning: 'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutInitWindowPosition (400, 300);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:436:22: note: 'glutInitWindowPosition' declared here
+oextern void APIENTRY glutInitWindowPosition(int x, int y) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:104:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutInitDisplayMode    (GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGB);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:105:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutCreateWindow       ("Corner Axes");
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:106:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutDisplayFunc        (display);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:107:5: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutIdleFunc           (display);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared here
+oextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:108:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutReshapeFunc        (reshape);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared here
+oextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:110:5: warning: 'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutSpecialFunc        (Special);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:517:22: note: 'glutSpecialFunc' declared here
+oextern void APIENTRY glutSpecialFunc(void (*func)(int key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:115:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]
+o    gluPerspective (40.0, 1.5, 1.0, 10.0);
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared here
+oextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");
+o            ^
+o/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:118:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutMainLoop ();
+o    ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o13 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp159"CompileC build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o Exemplo3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler0053329d6ff4b841^7b6bb09d6ff4b841^-8118"/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:78:5: warning: 'glutSolidTeapot' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSolidTeapot (1.0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:581:22: note: 'glutSolidTeapot' declared hereextern void APIENTRY glutSolidTeapot(GLdouble size) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:83:9: warning: 'glutWireTeapot' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutWireTeapot (1.01);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:580:22: note: 'glutWireTeapot' declared hereextern void APIENTRY glutWireTeapot(GLdouble size) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:97:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSwapBuffers ();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:102:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitWindowSize     (600, 400);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:103:5: warning: 'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitWindowPosition (400, 300);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:436:22: note: 'glutInitWindowPosition' declared hereextern void APIENTRY glutInitWindowPosition(int x, int y) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:104:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitDisplayMode    (GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGB);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:105:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutCreateWindow       ("Corner Axes");    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:106:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutDisplayFunc        (display);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:107:5: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutIdleFunc           (display);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared hereextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:108:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutReshapeFunc        (reshape);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:110:5: warning: 'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSpecialFunc        (Special);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:517:22: note: 'glutSpecialFunc' declared hereextern void APIENTRY glutSpecialFunc(void (*func)(int key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:115:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]    gluPerspective (40.0, 1.5, 1.0, 10.0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared hereextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");            ^/Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:118:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutMainLoop ();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@62"'glutSolidTeapot' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@31"'glutSolidTeapot' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^580#21#580#21#23210#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^77#4#77#4#1757#0#12"Deprecations--2@61"'glutWireTeapot' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@30"'glutWireTeapot' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^579#21#579#21#23128#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^82#8#82#8#1872#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^96#4#96#4#2092#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^101#4#101#4#2137#0#12"Deprecations--2@69"'glutInitWindowPosition' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@38"'glutInitWindowPosition' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^435#21#435#21#13184#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^102#4#102#4#2176#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^103#4#103#4#2215#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^104#4#104#4#2281#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^105#4#105#4#2325#0#12"Deprecations--2@59"'glutIdleFunc' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@28"'glutIdleFunc' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^512#21#512#21#18284#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^106#4#106#4#2363#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^107#4#107#4#2401#0#12"Deprecations--2@62"'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@31"'glutSpecialFunc' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^516#21#516#21#18615#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^109#4#109#4#2479#0#12"Deprecations--2@95"'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective"-418672541#18446744073709551615#0#1(2@30"'gluPerspective' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^277#12#277#12#15841#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^114#4#114#4#2635#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-418672541#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-418672541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^117#4#117#4#2718#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@62"file:///Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp0000000000000000^2784"CompileC build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o Exemplo3/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Exemplo3-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Exemplo3-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Exemplo3-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Exemplo3-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.dia -c /Users/sashanicolas/Projects/OpenGLHW/Exemplo3/main.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o36"17781BC5-F560-461A-A8B3-C37DC62C6246-
+bB65EF8B8-863D-44A1-A69A-CC550231D909
+
+CLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo3 normal x86_64
+s418672541.690797
+e418672541.947196
+r1
+xLd
+x/Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo3
+xnormal
+xx86_64
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/Exemplo3.LinkFileList
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Link /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo337"Ld build/Debug/Exemplo3 normal x86_645beeb09d6ff4b841^e57bf29d6ff4b841^---0#0#1#--886"Ld build/Debug/Exemplo3 normal x86_64    cd /Users/sashanicolas/Projects/OpenGLHW    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/sashanicolas/Projects/OpenGLHW/build/Debug -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -filelist /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/Exemplo3.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Exemplo3.build/Objects-normal/x86_64/Exemplo3_dependency_info.dat -o /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Exemplo336"099B822E-F85A-4B37-B560-D2295CC68F40-
+bB65EF8B8-863D-44A1-A69A-CC550231D909
+
