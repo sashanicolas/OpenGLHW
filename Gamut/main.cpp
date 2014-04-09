@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include "color.h"
 
 // Initialization function
 static void Init ()
@@ -21,12 +22,46 @@ static void Init ()
 }
 
 // Draw scene
+static void DrawAxes ()
+{
+    glBegin(GL_LINES);
+    glColor3f(1, 0, 0);
+    glVertex3f(0, 0, 0);
+    glVertex3f(20, 0, 0);
+    
+    glColor3f(0, 1, 0);
+    glVertex3f(0, 0, 0);
+    glVertex3f(0, 20, 0);
+    
+    glColor3f(0, 0, 1);
+    glVertex3f(0, 0, 0);
+    glVertex3f(0, 0, 20);
+    glEnd();
+}
+
+
+// Draw scene
 static void DrawScene ()
 {
     // position light
     float lpos[4] = {0.0f,100.0f,0.0f,1.0f};
     glLightfv(GL_LIGHT0,GL_POSITION,lpos);
     
+    float lambda=380.0, delta = 0.2;
+    float x, y, z;
+    float s = 20.0;
+
+    while (lambda<780.0) {
+        
+        corGetCIExyz(lambda, &x, &y, &z);
+        glBegin(GL_POINT);
+            glColor3f(s*x, s*y, s*z);
+        glEnd();
+        
+        printf("%f %f %f %f\n",lambda,x,y,z);
+        
+        lambda += delta;
+    }
 }
 
 // Display callback
@@ -48,23 +83,9 @@ static void Display (void)
               5,5,0,
               0,1,0);
     
-    glBegin(GL_LINES);
-    glColor3f(1, 0, 0);
-    glVertex3f(0, 0, 0);
-    glVertex3f(20, 0, 0);
-    
-    glColor3f(0, 1, 0);
-    glVertex3f(0, 0, 0);
-    glVertex3f(0, 20, 0);
-    
-    glColor3f(0, 0, 1);
-    glVertex3f(0, 0, 0);
-    glVertex3f(0, 0, 20);
-    glEnd();
-    
-    
-    // draw scene
+    DrawAxes();
     DrawScene();
+    
     glutSwapBuffers();
 }
 
