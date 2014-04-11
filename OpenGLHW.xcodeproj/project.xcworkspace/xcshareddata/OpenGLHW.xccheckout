@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>780C7E87-D975-4366-9E36-98E4C80506C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenGLHW</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9DBE6E3C-6CA4-4F7B-8DB4-6EB51516EC61</key>
+		<string>https://github.com/sashanicolas/OpenGLHW.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenGLHW.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9DBE6E3C-6CA4-4F7B-8DB4-6EB51516EC61</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sashanicolas/OpenGLHW.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9DBE6E3C-6CA4-4F7B-8DB4-6EB51516EC61</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9DBE6E3C-6CA4-4F7B-8DB4-6EB51516EC61</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenGLHW</string>
+		</dict>
+	</array>
+</dict>
+</plist>

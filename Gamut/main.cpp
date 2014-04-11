@@ -11,7 +11,7 @@ float k;
 float points[nPoints][3];
 
 // Camera position
-float x = -2.5, z = 2; // initially 5 units south of origin
+float x_cam = -2.5, z_cam = 2; // initially 5 units south of origin
 float deltaMove = 0.0; // initially camera doesn't move
 
 // Camera direction
@@ -89,9 +89,28 @@ void calculateK(float *k){
 //retorna uma cor XYZ, usa k global
 void getColorXYZ(float *X, float *Y, float *Z){
     float beta[401];
-    for (int i=0; i<=400; i++) {
-        beta[i] = ( rand() % 100 ) / 100.0;
-        //printf("%f;\n",beta[i]);
+    int c=0;
+    float aux, prox, valor;
+    beta[0]=0;
+
+    //repete ou aumenta/diminue
+    while (c<401) {
+        if (rand()%2 == 0) { // repete
+        //if(1==0){
+            aux = rand() % 80 ; //quantos vao ter o mesmo valor
+            beta[c] = ( rand() % 100 ) / 100.0; // o valor em si
+            for (int i=0; i<=aux && c+i<401; i++) {
+                beta[c+i] = beta[c];
+            }
+            c+=aux;
+        }else{// 1 - aumenta ou diminue
+            prox = rand() % 50 ; //proximo
+            valor = ( rand() % 100 ) / 100.0; //valor do proximo
+            for (int i=1; i<=prox && c+i<401; i++) {
+                beta[c+i] = beta[c] + (valor-beta[c])/(float)i;
+            }
+            c+=prox;
+        }
     }
     
     float x_bar, y_bar, z_bar, L;
@@ -143,7 +162,7 @@ static void Display (void){
     glLoadIdentity();
     
     // load manipulator matrix
-    gluLookAt(x + lx, 1.5, z + lz,
+    gluLookAt(x_cam, 1.5, z_cam,
               0.5,0.5,0.5,
               0,1,0);
     
@@ -209,8 +228,8 @@ static void Init(){
 void update(void)
 {
 	if (deltaMove) { // update camera position
-		x += deltaMove * lx * 0.1;
-		z += deltaMove * lz * 0.1;
+	//	x_cam += deltaMove * lx * 0.1;
+	//	z_cam += deltaMove * lz * 0.1;
 	}
 	glutPostRedisplay(); // redisplay everything
 }
@@ -230,8 +249,17 @@ void mouseMove(int x, int y)
 		deltaAngle = (x - xDragStart) * 0.005;
         
 		// camera's direction is set to angle + deltaAngle
-		lx = -sin(angle + deltaAngle);
-		lz = cos(angle + deltaAngle);
+		//lx = -sin(angle + deltaAngle);
+		//lz = cos(angle + deltaAngle);
+        
+        lx = cos(angle + deltaAngle);
+        printf("%f\n",lx);
+
+        lz = sin(angle + deltaAngle);
+        printf("%f\n",lz);
+
+        x_cam += lx;
+        z_cam += lz;
 	}
 }
 
