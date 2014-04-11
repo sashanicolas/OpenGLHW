@@ -242,7 +242,7 @@ t1397176339
 s7485
 
 N/Users/sashanicolas/Projects/OpenGLHW/build/Debug/Gamut
-t1397176176
+t1397176354
 s41620
 
 N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Gamut.build/Objects-normal/x86_64/Gamut.LinkFileList
@@ -269,7 +269,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesebc72aa26ff7b841^f4352ba26ff7b841^---0#1#1#--18"Check dependencies36"F8C7B5A1-84C8-4D61-B561-BAC857E42F5F-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfe81da098ef7b841^8b8cde098ef7b841^---0#1#1#--18"Check dependencies36"32F7498F-03C4-414A-8811-669152E04EC2-
 
 CCompileC build/OpenGLHW.build/Debug/Gamut.build/Objects-normal/x86_64/color.o /Users/sashanicolas/Projects/OpenGLHW/Gamut/color.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s418676523.154083
