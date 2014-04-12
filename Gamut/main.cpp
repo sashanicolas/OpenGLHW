@@ -5,13 +5,14 @@
 #include <time.h>
 #include "color.h"
 
-#define nPoints 10000
+#define nPoints 500000
+//#define nPoints 10000
 
 float k;
 float points[nPoints][3];
 
 // Camera position
-float x_cam = -2.5, z_cam = 2; // initially 5 units south of origin
+float x_cam = 3, z_cam = 0; // initially 5 units south of origin
 float deltaMove = 0.0; // initially camera doesn't move
 
 // Camera direction
@@ -22,7 +23,6 @@ float deltaAngle = 0.0; // additional angle change when dragging
 // Mouse drag control
 int isDragging = 0; // true when dragging
 int xDragStart = 0; // records the x-coordinate when dragging starts
-
 
 
 // Draw scene
@@ -162,7 +162,7 @@ static void Display (void){
     glLoadIdentity();
     
     // load manipulator matrix
-    gluLookAt(x_cam, 1.5, z_cam,
+    gluLookAt(x_cam + 0.5, 1.5, z_cam + 0.5,
               0.5,0.5,0.5,
               0,1,0);
     
@@ -209,11 +209,19 @@ static void Init(){
 
     while (n<nPoints) {
         getColorXYZ( &X, &Y, &Z);
-        corCIEXYZtoCIERGB(X,Y,Z, &r, &g, &b);
         
-        points[n][0] = r;
-        points[n][1] = g;
-        points[n][2] = b;
+        //pontos em XYZ
+        points[n][0] = X;
+        points[n][1] = Y;
+        points[n][2] = Z;
+        
+        
+        //passar pra RGB
+//        corCIEXYZtoCIERGB(X,Y,Z, &r, &g, &b);
+        
+  //      points[n][0] = r;
+    //    points[n][1] = g;
+      //  points[n][2] = b;
         
         n++;
     }
@@ -246,20 +254,12 @@ void mouseMove(int x, int y)
 {
 	if (isDragging) { // only when dragging
 		// update the change in angle
-		deltaAngle = (x - xDragStart) * 0.005;
-        
-		// camera's direction is set to angle + deltaAngle
-		//lx = -sin(angle + deltaAngle);
-		//lz = cos(angle + deltaAngle);
-        
-        lx = cos(angle + deltaAngle);
-        printf("%f\n",lx);
-
-        lz = sin(angle + deltaAngle);
-        printf("%f\n",lz);
-
-        x_cam += lx;
-        z_cam += lz;
+		deltaAngle = (x - xDragStart) * 0.0001;
+        angle += deltaAngle; // update camera turning angle
+		
+        // camera's direction is set to angle + deltaAngle
+        x_cam = 3 * cos(angle);
+        z_cam = 3 * sin(angle);
 	}
 }
 
@@ -271,7 +271,6 @@ void mouseButton(int button, int state, int x, int y)
 			xDragStart = x; // save x where button first pressed
 		}
 		else  { /* (state = GLUT_UP) */
-			angle += deltaAngle; // update camera turning angle
 			isDragging = 0; // no longer dragging
 		}
 	}
