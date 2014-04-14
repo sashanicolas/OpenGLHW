@@ -11,6 +11,10 @@
 		B718B45118D92C7F00D4279A /* OpenGLHW.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = B718B45018D92C7F00D4279A /* OpenGLHW.1 */; };
 		B718B45818D92DB000D4279A /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B718B45718D92DB000D4279A /* GLUT.framework */; };
 		B718B45A18D92DC800D4279A /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B718B45918D92DC800D4279A /* OpenGL.framework */; };
+		B77FCE5218FC91AA0024415E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B77FCE5118FC91AA0024415E /* main.cpp */; };
+		B77FCE5418FC91AA0024415E /* Trab2Rendering.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = B77FCE5318FC91AA0024415E /* Trab2Rendering.1 */; };
+		B77FCE5818FC91BF0024415E /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B718B45918D92DC800D4279A /* OpenGL.framework */; };
+		B77FCE5918FC91C10024415E /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B718B45718D92DB000D4279A /* GLUT.framework */; };
 		B7F3996E18F44E8100057156 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7F3996D18F44E8100057156 /* main.cpp */; };
 		B7F3997018F44E8100057156 /* Exemplo2.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = B7F3996F18F44E8100057156 /* Exemplo2.1 */; };
 		B7F3997418F44FF100057156 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B718B45918D92DC800D4279A /* OpenGL.framework */; };
@@ -38,6 +42,16 @@
 			dstSubfolderSpec = 0;
 			files = (
 				B718B45118D92C7F00D4279A /* OpenGLHW.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		B77FCE4D18FC91AA0024415E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				B77FCE5418FC91AA0024415E /* Trab2Rendering.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -90,6 +104,9 @@
 		B718B45018D92C7F00D4279A /* OpenGLHW.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = OpenGLHW.1; sourceTree = "<group>"; };
 		B718B45718D92DB000D4279A /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../../System/Library/Frameworks/GLUT.framework; sourceTree = "<group>"; };
 		B718B45918D92DC800D4279A /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = ../../../../System/Library/Frameworks/OpenGL.framework; sourceTree = "<group>"; };
+		B77FCE4F18FC91AA0024415E /* Trab2Rendering */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Trab2Rendering; sourceTree = BUILT_PRODUCTS_DIR; };
+		B77FCE5118FC91AA0024415E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B77FCE5318FC91AA0024415E /* Trab2Rendering.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Trab2Rendering.1; sourceTree = "<group>"; };
 		B7F3996B18F44E8100057156 /* Exemplo2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Exemplo2; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7F3996D18F44E8100057156 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B7F3996F18F44E8100057156 /* Exemplo2.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Exemplo2.1; sourceTree = "<group>"; };
@@ -113,6 +130,15 @@
 			files = (
 				B718B45818D92DB000D4279A /* GLUT.framework in Frameworks */,
 				B718B45A18D92DC800D4279A /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B77FCE4C18FC91AA0024415E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B77FCE5918FC91C10024415E /* GLUT.framework in Frameworks */,
+				B77FCE5818FC91BF0024415E /* OpenGL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,6 +191,7 @@
 				B7F3997B18F45EE400057156 /* Gamut */,
 				B7F3998A18F4628900057156 /* Esferas */,
 				B7F3999918F46E9E00057156 /* Exemplo3 */,
+				B77FCE5018FC91AA0024415E /* Trab2Rendering */,
 				B718B44C18D92C7F00D4279A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -177,6 +204,7 @@
 				B7F3997A18F45EE400057156 /* Gamut */,
 				B7F3998918F4628900057156 /* Esferas */,
 				B7F3999818F46E9D00057156 /* Exemplo3 */,
+				B77FCE4F18FC91AA0024415E /* Trab2Rendering */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -188,6 +216,15 @@
 				B718B45018D92C7F00D4279A /* OpenGLHW.1 */,
 			);
 			path = OpenGLHW;
+			sourceTree = "<group>";
+		};
+		B77FCE5018FC91AA0024415E /* Trab2Rendering */ = {
+			isa = PBXGroup;
+			children = (
+				B77FCE5118FC91AA0024415E /* main.cpp */,
+				B77FCE5318FC91AA0024415E /* Trab2Rendering.1 */,
+			);
+			path = Trab2Rendering;
 			sourceTree = "<group>";
 		};
 		B7F3996C18F44E8100057156 /* Exemplo2 */ = {
@@ -246,6 +283,23 @@
 			name = OpenGLHW;
 			productName = OpenGLHW;
 			productReference = B718B44B18D92C7F00D4279A /* OpenGLHW */;
+			productType = "com.apple.product-type.tool";
+		};
+		B77FCE4E18FC91AA0024415E /* Trab2Rendering */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B77FCE5718FC91AB0024415E /* Build configuration list for PBXNativeTarget "Trab2Rendering" */;
+			buildPhases = (
+				B77FCE4B18FC91AA0024415E /* Sources */,
+				B77FCE4C18FC91AA0024415E /* Frameworks */,
+				B77FCE4D18FC91AA0024415E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Trab2Rendering;
+			productName = Trab2Rendering;
+			productReference = B77FCE4F18FC91AA0024415E /* Trab2Rendering */;
 			productType = "com.apple.product-type.tool";
 		};
 		B7F3996A18F44E8100057156 /* Exemplo2 */ = {
@@ -342,6 +396,7 @@
 				B7F3997918F45EE300057156 /* Gamut */,
 				B7F3998818F4628900057156 /* Esferas */,
 				B7F3999718F46E9D00057156 /* Exemplo3 */,
+				B77FCE4E18FC91AA0024415E /* Trab2Rendering */,
 			);
 		};
 /* End PBXProject section */
@@ -352,6 +407,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				B718B44F18D92C7F00D4279A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B77FCE4B18FC91AA0024415E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B77FCE5218FC91AA0024415E /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -469,6 +532,28 @@
 		B718B45618D92C7F00D4279A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B77FCE5518FC91AA0024415E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B77FCE5618FC91AA0024415E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -593,6 +678,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		B77FCE5718FC91AB0024415E /* Build configuration list for PBXNativeTarget "Trab2Rendering" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B77FCE5518FC91AA0024415E /* Debug */,
+				B77FCE5618FC91AA0024415E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		B7F3997118F44E8100057156 /* Build configuration list for PBXNativeTarget "Exemplo2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -600,6 +693,7 @@
 				B7F3997318F44E8100057156 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7F3998018F45EE400057156 /* Build configuration list for PBXNativeTarget "Gamut" */ = {
 			isa = XCConfigurationList;
@@ -608,6 +702,7 @@
 				B7F3998218F45EE400057156 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7F3998F18F4628A00057156 /* Build configuration list for PBXNativeTarget "Esferas" */ = {
 			isa = XCConfigurationList;
@@ -616,6 +711,7 @@
 				B7F3999118F4628A00057156 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7F3999E18F46E9E00057156 /* Build configuration list for PBXNativeTarget "Exemplo3" */ = {
 			isa = XCConfigurationList;
@@ -624,6 +720,7 @@
 				B7F399A018F46E9E00057156 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
