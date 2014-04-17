@@ -1,0 +1,560 @@
+TGLSLlight
+v6
+r1
+cCheck dependencies
+cCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053471FE200000000000000AA
+t1397170146
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268268B000000000000044C
+t1382557323
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B9B4600000000000001DE
+t1395366726
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000005268268C00000000000135D4
+t1382557324
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000532B9B47000000000000BB7C
+t1395366727
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000532B9B4700000000000211A0
+t1395366727
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000532B9B470000000000005F00
+t1395366727
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000532B9B48000000000000681C
+t1395366728
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c0000000052682691000000000006E8B0
+t1382557329
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526826910000000000004734
+t1382557329
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052682691000000000000FC6C
+t1382557329
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052682691000000000000F6A0
+t1382557329
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526826910000000000006254
+t1382557329
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052682691000000000000E0F8
+t1382557329
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000532B9B48000000000000D6DC
+t1395366728
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000532B9B480000000000006308
+t1395366728
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526826910000000000004050
+t1382557329
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000532B9B480000000000008570
+t1395366728
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526826910000000000005EA0
+t1382557329
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526826910000000000005FAC
+t1382557329
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526826910000000000004440
+t1382557329
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052682691000000000000AA28
+t1382557329
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526826910000000000003E2C
+t1382557329
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000532B9B480000000000030B04
+t1395366728
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000532B9B480000000000005E54
+t1395366728
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000532B9B480000000000006A90
+t1395366728
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005268269100000000000178AC
+t1382557329
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000532B9B48000000000001ADC8
+t1395366728
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052682691000000000001028C
+t1382557329
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000532B9B480000000000008800
+t1395366728
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526826910000000000011090
+t1382557329
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052682691000000000000882C
+t1382557329
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000532B9B4800000000000067AC
+t1395366728
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526826910000000000008DEC
+t1382557329
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000532B9B480000000000004C08
+t1395366728
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000532B9B480000000000002428
+t1395366728
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052682691000000000000439C
+t1382557329
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526826910000000000006768
+t1382557329
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000532B9B4800000000000172F4
+t1395366728
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B9B490000000000000ADC
+t1395366729
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c0000000053471FCA0000000000001770
+t1397170122
+s6000
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c0000000052691A1500000000000F71B0
+t1382619669
+s1012144
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000530D5B6E000000000002C960
+t1393384302
+s182624
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp
+c00000000534EE1AF0000000000000CAA
+t1397678511
+s3242
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+c00000000534C84B100000000000005FD
+t1397523633
+s1533
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c
+c00000000534BFA0D0000000000001B41
+t1397488141
+s6977
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp
+c00000000534C85490000000000001B52
+t1397523785
+s6994
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c
+c00000000534BFA0D0000000000000F7D
+t1397488141
+s3965
+
+N/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp
+c00000000534C853B0000000000000F8D
+t1397523771
+s3981
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight
+t1397678512
+s19392
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/GLSLlight.LinkFileList
+c00000000534C8489000000000000014D
+t1397523593
+s333
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o
+t1397678512
+s6048
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o
+t1397523787
+s12576
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o
+t1397523773
+s7968
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa7e94b9e1bffb841^43c94c9e1bffb841^---0#1#1#--18"Check dependencies36"5E7E4B85-8AA1-4B1E-8779-7385ABBDE9A4-
+
+CCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419371311.280513
+e419371312.354784
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o
+x/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:48:4: warning: 'glutDestroyWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o                        glutDestroyWindow(g_window);
+o                        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:443:22: note: 'glutDestroyWindow' declared here
+oextern void APIENTRY glutDestroyWindow(int win) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:89:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:90:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:91:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:92:13: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        g_window = glutCreateWindow("OpenGL demo - http://joshbeam.com/");
+o                   ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:95:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(sceneRender);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:96:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutIdleFunc(sceneCycle);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared here
+oextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:97:2: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutKeyboardFunc(handleKeyPress);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:507:22: note: 'glutKeyboardFunc' declared here
+oextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:117:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o9 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp161"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o GLSLlight/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler1aa7492f19ffb841^31d35a3019ffb841^-6331"/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:48:4: warning: 'glutDestroyWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]                        glutDestroyWindow(g_window);                        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:443:22: note: 'glutDestroyWindow' declared hereextern void APIENTRY glutDestroyWindow(int win) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:89:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:90:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:91:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:92:13: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        g_window = glutCreateWindow("OpenGL demo - http://joshbeam.com/");                   ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:95:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(sceneRender);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:96:2: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutIdleFunc(sceneCycle);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:513:22: note: 'glutIdleFunc' declared hereextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:97:2: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutKeyboardFunc(handleKeyPress);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:507:22: note: 'glutKeyboardFunc' declared hereextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:117:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp:29:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^9 warnings generated.9(36%IDEClangDiagnosticActivityLogMessage2@64"'glutDestroyWindow' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@33"'glutDestroyWindow' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^442#21#442#21#13670#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^47#3#47#3#1759#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@24"'glutInit' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^88#1#88#1#2382#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^89#1#89#1#2406#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^90#1#90#1#2466#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^91#12#91#12#2527#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^94#1#94#1#2612#0#12"Deprecations--2@59"'glutIdleFunc' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@28"'glutIdleFunc' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^512#21#512#21#18284#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^95#1#95#1#2643#0#12"Deprecations--2@63"'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@32"'glutKeyboardFunc' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^506#21#506#21#17667#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^96#1#96#1#2670#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-419371312#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-419371312#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^116#1#116#1#3213#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp0000000000000000^2794"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o GLSLlight/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.dia -c /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/main.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o36"DEB77712-46CA-4526-BA5B-71704BB5AD28-
+b9C9D5FB9-672A-4ABC-A795-B266D1DB37F3
+
+CCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s419216437.351583
+e419216438.050457
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o
+x/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:188:3: warning: 'glutSolidSphere' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o                glutSolidSphere(0.04, 36, 36);
+o                ^
+oIn module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:571:22: note: 'glutSolidSphere' declared here
+oextern void APIENTRY glutSolidSphere(GLdouble radius, GLint slices, GLint stacks) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:192:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:205:27: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+o        return (t.tv_sec * 1000) + (t.tv_usec / 1000);
+o        ~~~~~~ ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:236:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutPostRedisplay();
+o        ^
+oIn module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c159"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o GLSLlight/scene.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler9b205a35bcfcb841^6af90d36bcfcb841^-2140"/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:188:3: warning: 'glutSolidSphere' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]                glutSolidSphere(0.04, 36, 36);                ^In module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:571:22: note: 'glutSolidSphere' declared hereextern void APIENTRY glutSolidSphere(GLdouble radius, GLint slices, GLint stacks) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:192:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:205:27: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]        return (t.tv_sec * 1000) + (t.tv_usec / 1000);        ~~~~~~ ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c:236:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutPostRedisplay();        ^In module 'GLUT' imported from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@62"'glutSolidSphere' is deprecated: first deprecated in OS X 10.9-419216438#18446744073709551615#0#1(2@31"'glutSolidSphere' declared here-419216438#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^570#21#570#21#22171#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^187#2#187#2#5942#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-419216438#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-419216438#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^191#1#191#1#5995#0#12"Deprecations--2@69"Implicit conversion loses integer precision: 'long' to 'unsigned int'-419216438#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^204#26#204#26#6170#0#22"Value Conversion Issue2(3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^204#8#204#46#6152#37#3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^204#1#204#7#6145#0#-2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-419216438#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-419216438#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^235#1#235#1#6954#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@62"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c0000000000000000^2648"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o GLSLlight/scene.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.dia -c /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.c -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o36"61AD7C75-7392-42EB-A9FA-85255A565A81-
+b3FEEA2F7-3642-496C-B0A2-AB752D3C51C9
+
+CCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419216586.517708
+e419216587.061623
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o
+x/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:188:3: warning: 'glutSolidSphere' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o                glutSolidSphere(0.04, 36, 36);
+o                ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:571:22: note: 'glutSolidSphere' declared here
+oextern void APIENTRY glutSolidSphere(GLdouble radius, GLint slices, GLint stacks) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:192:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:205:27: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+o        return (t.tv_sec * 1000) + (t.tv_usec / 1000);
+o        ~~~~~~ ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:236:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutPostRedisplay();
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp163"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o GLSLlight/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7fa084cabcfcb841^f37614cbbcfcb841^-2373"/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:188:3: warning: 'glutSolidSphere' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]                glutSolidSphere(0.04, 36, 36);                ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:571:22: note: 'glutSolidSphere' declared hereextern void APIENTRY glutSolidSphere(GLdouble radius, GLint slices, GLint stacks) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:192:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:205:27: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]        return (t.tv_sec * 1000) + (t.tv_usec / 1000);        ~~~~~~ ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:236:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutPostRedisplay();        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp:36:In file included from /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h:34:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@62"'glutSolidSphere' is deprecated: first deprecated in OS X 10.9-419216587#18446744073709551615#0#1(2@31"'glutSolidSphere' declared here-419216587#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^570#21#570#21#22171#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^187#2#187#2#5959#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-419216587#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-419216587#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^191#1#191#1#6012#0#12"Deprecations--2@69"Implicit conversion loses integer precision: 'long' to 'unsigned int'-419216587#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^204#26#204#26#6187#0#22"Value Conversion Issue2(3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^204#8#204#46#6169#37#3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^204#1#204#7#6162#0#-2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-419216587#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-419216587#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^235#1#235#1#6971#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@64"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp0000000000000000^2800"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o GLSLlight/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.dia -c /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/scene.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o36"DAD22842-EE65-45B6-B854-8941CA469E12-
+b3C518670-DB5B-4D58-9820-3071AA803365
+
+CCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s419216438.018297
+e419216438.076228
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o
+x/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c:97:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'GLint' (aka 'int') [-Wshorten-64-to-32]
+o        length = strlen(source);
+o               ~ ^~~~~~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c161"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o GLSLlight/shader.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler97c90436bcfcb841^34841336bcfcb841^-264"/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c:97:11: warning: implicit conversion loses integer precision: 'unsigned long' to 'GLint' (aka 'int') [-Wshorten-64-to-32]        length = strlen(source);               ~ ^~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@83"Implicit conversion loses integer precision: 'unsigned long' to 'GLint' (aka 'int')-419216438#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c0000000000000000^96#10#96#10#2824#0#22"Value Conversion Issue2(3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c0000000000000000^96#10#96#24#2824#13#3@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c0000000000000000^96#8#96#9#2822#0#-0#0#1#-19%DVTDocumentLocation4@63"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c0000000000000000^2654"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o GLSLlight/shader.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.dia -c /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.c -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o36"C7EC454F-2931-4F55-B4DC-D2A4A2E666BD-
+b3FEEA2F7-3642-496C-B0A2-AB752D3C51C9
+
+CCompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419216572.712536
+e419216573.292493
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o
+x/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/opengl.h
+o/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp:97:11: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'GLint' (aka 'int') [-Wshorten-64-to-32]
+o        length = strlen(source);
+o               ~ ^~~~~~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp165"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o GLSLlight/shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4086b6bcbcfcb841^fbe64abdbcfcb841^-281"/Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp:97:11: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'GLint' (aka 'int') [-Wshorten-64-to-32]        length = strlen(source);               ~ ^~~~~~~~~~~~~~1 warning generated.-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp0000000000000000^2806"CompileC build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o GLSLlight/shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/GLSLlight-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.dia -c /Users/sashanicolas/Projects/OpenGLHW/GLSLlight/shader.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o36"ED44D953-5FD3-4F63-93DC-2DB838BA4D12-
+b046D15C9-DAA6-4C0B-89A2-F85757D1AEF5
+
+CLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight normal x86_64
+s419371312.361095
+e419371312.651910
+r1
+xLd
+x/Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight
+xnormal
+xx86_64
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/GLSLlight.LinkFileList
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/scene.o
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/shader.o
+d/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Link /Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight38"Ld build/Debug/GLSLlight normal x86_640a855c3019ffb841^9be5a63019ffb841^---0#0#1#--892"Ld build/Debug/GLSLlight normal x86_64    cd /Users/sashanicolas/Projects/OpenGLHW    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/sashanicolas/Projects/OpenGLHW/build/Debug -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -filelist /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/GLSLlight.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/GLSLlight.build/Objects-normal/x86_64/GLSLlight_dependency_info.dat -o /Users/sashanicolas/Projects/OpenGLHW/build/Debug/GLSLlight36"DAD55142-25BA-4011-AF31-5EBEA31D43D3-
+b9C9D5FB9-672A-4ABC-A795-B266D1DB37F3
+

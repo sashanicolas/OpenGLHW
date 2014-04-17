@@ -19,6 +19,16 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>ExemploBule.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>GLSLlight.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
 		<key>Gamut.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -48,6 +58,16 @@
 			<true/>
 		</dict>
 		<key>B77FCE4E18FC91AA0024415E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B77FCE5D18FCBB680024415E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7AB1D0C18FD54130041AF69</key>
 		<dict>
 			<key>primary</key>
 			<true/>
