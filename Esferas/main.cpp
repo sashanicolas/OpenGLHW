@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 const double PI = 3.1415926535897;
 int m_nx = 10, m_ny = 10;
 int Index (int i, int j) {
@@ -29,29 +30,30 @@ public:
         for (int j=0; j<m_ny; j++) {
             for (int i=0; i<m_nx; i++) {
                 int k = Index(i, j);
-                m_coord[18*k] = (float)i / m_nx;
+                m_coord[18*k] = (float)i / (float)m_nx;
                 m_coord[18*k+1] = 0.0f;
-                m_coord[18*k+2] = (float)j / m_ny;
+                m_coord[18*k+2] = (float)j / (float)m_ny;
                 
-                m_coord[18*k+3] = ((float)i+1) / m_nx;
+                m_coord[18*k+3] = ((float)i+1) / (float)m_nx;
                 m_coord[18*k+4] = 0.0f;
-                m_coord[18*k+5] = ((float)j+1) / m_ny;
+                m_coord[18*k+5] = ((float)j+1) / (float)m_ny;
                 
-                m_coord[18*k+6] = ((float)i+1) / m_nx;
+                m_coord[18*k+6] = ((float)i+1) / (float)m_nx;
                 m_coord[18*k+7] = 0.0f;
-                m_coord[18*k+8] = (float)j / m_ny;
+                m_coord[18*k+8] = (float)j / (float)m_ny;
                 
-                m_coord[18*k+9] = (float)i / m_nx;
+                
+                m_coord[18*k+9] = ((float)i+1) / (float)m_nx;
                 m_coord[18*k+10] = 0.0f;
-                m_coord[18*k+11] = (float)j / m_ny;
+                m_coord[18*k+11] = ((float)j+1) / (float)m_ny;
                 
-                m_coord[18*k+12] = ((float)i+1) / m_nx;
+                m_coord[18*k+12] = (float)i / (float)m_nx;
                 m_coord[18*k+13] = 0.0f;
-                m_coord[18*k+14] = ((float)j+1) / m_ny;
+                m_coord[18*k+14] = (float)j / (float)m_ny;
                 
-                m_coord[18*k+15] = (float)i / m_nx;
+                m_coord[18*k+15] = (float)i / (float)m_nx;
                 m_coord[18*k+16] = 0.0f;
-                m_coord[18*k+17] = ((float)j+1) / m_ny;
+                m_coord[18*k+17] = ((float)j+1) / (float)m_ny;
             }
         }
         int k = 0;
@@ -124,30 +126,30 @@ public:
         for (int j=0; j<m_ny; j++) {
             for (int i=0; i<m_nx; i++) {
                 int k = Index(i, j);
-                m_coord[18*k] = 0.5*cos( 2*PI*((float)i / m_nx)) * sin( PI*((float)j / m_nx) ) ;
-                m_coord[18*k+1] = 0.5*cos( PI*((float)j / m_nx) );
-                m_coord[18*k+2] = 0.5*sin( 2*PI*((float)i / m_nx) ) * sin( PI*((float)j / m_nx) ) ;
+                m_coord[18*k] = cos( 2*PI*((float)i / (float)m_nx)) * sin( PI*((float)j / (float)m_nx) ) ;
+                m_coord[18*k+1] = cos( PI*((float)j / (float)m_nx) );
+                m_coord[18*k+2] = sin( 2*PI*((float)i / (float)m_nx) ) * sin( PI*((float)j / (float)m_nx) ) ;
                 
-                m_coord[18*k+3] = 0.5*cos( 2*PI*(((float)i+1) / m_nx)) * sin( PI*(((float)j+1) / m_nx) ) ;
-                m_coord[18*k+4] = 0.5*cos( PI*(((float)j+1) / m_nx) );
-                m_coord[18*k+5] = 0.5*sin( 2*PI*(((float)i+1) / m_nx) ) * sin( PI*(((float)j+1) / m_nx) ) ;
+                m_coord[18*k+3] = cos( 2*PI*(((float)i+1) / (float)m_nx)) * sin( PI*((float)j / (float)m_nx) ) ;
+                m_coord[18*k+4] = cos( PI*((float)j / (float)m_nx) );
+                m_coord[18*k+5] = sin( 2*PI*(((float)i+1) / (float)m_nx) ) * sin( PI*((float)j / (float)m_nx) ) ;
                 
-                m_coord[18*k+6] = 0.5*cos( 2*PI*(((float)i+1) / m_nx)) * sin( PI*((float)j / m_nx) ) ;
-                m_coord[18*k+7] = 0.5*cos( PI*((float)j / m_nx) );
-                m_coord[18*k+8] = 0.5*sin( 2*PI*(((float)i+1) / m_nx) ) * sin( PI*((float)j / m_nx) ) ;
+                m_coord[18*k+6] = cos( 2*PI*(((float)i+1) / (float)m_nx)) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
+                m_coord[18*k+7] = cos( PI*(((float)j+1) / (float)m_nx) );
+                m_coord[18*k+8] = sin( 2*PI*(((float)i+1) / (float)m_nx) ) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
                 
                 
-                m_coord[18*k+9] = 0.5*cos( 2*PI*((float)i / m_nx)) * sin( PI*((float)j / m_nx) ) ;
-                m_coord[18*k+10] = 0.5*cos( PI*((float)j / m_nx) );
-                m_coord[18*k+11] = 0.5*sin( 2*PI*((float)i / m_nx) ) * sin( PI*((float)j / m_nx) ) ;
+                m_coord[18*k+9] = cos( 2*PI*((float)i / (float)m_nx)) * sin( PI*((float)j / (float)m_nx) ) ;
+                m_coord[18*k+10] = cos( PI*((float)j / (float)m_nx) );
+                m_coord[18*k+11] = sin( 2*PI*((float)i / (float)m_nx) ) * sin( PI*((float)j / (float)m_nx) ) ;
                 
-                m_coord[18*k+12] = 0.5*cos( 2*PI*(((float)i+1) / m_nx)) * sin( PI*(((float)j+1) / m_nx) ) ;
-                m_coord[18*k+13] = 0.5*cos( PI*(((float)j+1) / m_nx) );
-                m_coord[18*k+14] = 0.5*sin( 2*PI*(((float)i+1) / m_nx) ) * sin( PI*(((float)j+1) / m_nx) ) ;
+                m_coord[18*k+12] = cos( 2*PI*(((float)i+1) / (float)m_nx)) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
+                m_coord[18*k+13] = cos( PI*(((float)j+1) / (float)m_nx) );
+                m_coord[18*k+14] = sin( 2*PI*(((float)i+1) / (float)m_nx) ) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
                 
-                m_coord[18*k+15] = 0.5*cos( 2*PI*((float)i / m_nx)) * sin( PI*(((float)j+1) / m_nx) ) ;
-                m_coord[18*k+16] = 0.5*cos( PI*(((float)j+1) / m_nx) );
-                m_coord[18*k+17] = 0.5*sin( 2*PI*((float)i / m_nx) ) * sin( PI*(((float)j+1) / m_nx) ) ;
+                m_coord[18*k+15] = cos( 2*PI*((float)i / (float)m_nx)) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
+                m_coord[18*k+16] = cos( PI*(((float)j+1) / (float)m_nx) );
+                m_coord[18*k+17] = sin( 2*PI*((float)i / (float)m_nx) ) * sin( PI*(((float)j+1) / (float)m_nx) ) ;
             }
         }
         int k = 0;
@@ -199,6 +201,8 @@ static void Init ()
     float white[4] = {1.0f,1.0f,1.0f,1.0f};
     glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
     glEnable(GL_DEPTH_TEST);
+    
+    glEnable(GL_CULL_FACE);
     
     glEnable(GL_LIGHTING);
     glEnable(GL_LIGHT0);

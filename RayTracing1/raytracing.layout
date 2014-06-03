@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CaixaAlinhada.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2158" topLine="0" />
+	</File>
+	<File name="CaixaAlinhada.h" open="0" top="0" tabpos="2">
+		<Cursor position="344" topLine="0" />
+	</File>
+	<File name="Camera.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="670" topLine="0" />
+	</File>
+	<File name="Camera.h" open="1" top="0" tabpos="4">
+		<Cursor position="346" topLine="0" />
+	</File>
+	<File name="Geometria.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="135" topLine="0" />
+	</File>
+	<File name="Geometria.h" open="1" top="0" tabpos="1">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="Vetor.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1368" topLine="0" />
+	</File>
+	<File name="Vetor.h" open="1" top="0" tabpos="5">
+		<Cursor position="461" topLine="0" />
+	</File>
+	<File name="cena.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="cena.h" open="1" top="0" tabpos="6">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="esfera.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="836" topLine="31" />
+	</File>
+	<File name="esfera.h" open="1" top="0" tabpos="7">
+		<Cursor position="315" topLine="0" />
+	</File>
+	<File name="luz.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="50" topLine="0" />
+	</File>
+	<File name="luz.h" open="1" top="0" tabpos="8">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="1982" topLine="61" />
+	</File>
+	<File name="material.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="material.h" open="1" top="0" tabpos="9">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="raio.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="55" topLine="0" />
+	</File>
+	<File name="raio.h" open="1" top="0" tabpos="10">
+		<Cursor position="126" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

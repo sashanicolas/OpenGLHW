@@ -1,0 +1,432 @@
+TRayTracing2
+v6
+r1
+cCheck dependencies
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268268B000000000000044C
+t1382557323
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532B9B4600000000000001DE
+t1395366726
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532B9B490000000000000ADC
+t1395366729
+s2780
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp
+c0000000051CA112E0000000000000934
+t1372197166
+s2356
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp
+c0000000051C9B2E200000000000003F4
+t1372173026
+s1012
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp
+c0000000051CA46060000000000000186
+t1372210694
+s390
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp
+c000000005383FE8A0000000000002386
+t1401159306
+s9094
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp
+c0000000051D633780000000000000603
+t1372992376
+s1539
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp
+c0000000051C76EB0000000000000007F
+t1372024496
+s127
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp
+c0000000051C9B7360000000000000462
+t1372174134
+s1122
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp
+c0000000051C9AA3E000000000000031E
+t1372170814
+s798
+
+N/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp
+c0000000051C9A71200000000000003AB
+t1372170002
+s939
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o
+t2
+s0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf033ee103634b941^575ff5103634b941^---0#1#1#--18"Check dependencies36"D14A3A22-F6FC-496F-8B97-E9A44E75B93D-
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852113.694009
+e422852113.755693
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp:1:
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h:22:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+o#endif;
+o      ^
+o      //
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp163"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o RayTracing2/box.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler69c3b1113634b941^fb73c1113634b941^-257"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp:1:/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h:22:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]#endif;      ^      //1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@39"Extra tokens at end of #endif directive-422852113#18446744073709551615#0#1(2@82"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp:1:-422852113#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h0000000000000000^21#6#21#6#318#0#29"Lexical or Preprocessor Issue1(3@62"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h0000000000000000^21#6#21#6#318#0#-0#0#1#-19%DVTDocumentLocation4@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp0000000000000000^2842"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o RayTracing2/box.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/box.o36"8CE5321D-9D1A-418C-AB4F-13F3115AC8F3-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852112.960856
+e422852113.691895
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp169"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o RayTracing2/camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerba15f6103634b941^6f2bb1113634b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp0000000000000000^2860"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o RayTracing2/camera.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/camera.o36"89E83C1F-A341-4844-82E9-710A1A33F16C-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852112.959669
+e422852113.692247
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp167"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o RayTracing2/color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler02d3f5103634b941^ab40b1113634b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp0000000000000000^2854"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o RayTracing2/color.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/color.o36"5C1B8F37-E8EA-497E-AED2-3DB6739EF5B3-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852113.693193
+e422852114.549610
+r0
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:9:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:21:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+o#endif;
+o      ^
+o      //
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:12:
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h:22:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+o#endif;
+o      ^
+o      //
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:69:21: error: no matching constructor for initialization of 'Light'
+o        Light* light = new Light( Vector(60.0f, 120.0f, 40.0f), Color(1.0f, 1.0f, 1.0f) ); 
+o                           ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:9:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:10:2: note: candidate constructor not viable: expects an l-value for 1st argument
+o        Light( Vector& position, Color& color )
+o        ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:7:7: note: candidate constructor (the implicit copy constructor) not viable: requires 1 argument, but 2 were provided
+oclass Light
+o      ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:7:7: note: candidate constructor (the implicit move constructor) not viable: requires 1 argument, but 2 were provided
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:86:2: warning: 'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho" [-Wdeprecated-declarations]
+o        gluOrtho2D(0, w, 0, h);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:276:13: note: 'gluOrtho2D' declared here
+oextern void gluOrtho2D (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeOrtho");
+o            ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:144:8: warning: unused variable 'objColor' [-Wunused-variable]
+o        Color objColor = object->getColor();
+o              ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:313:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:328:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:329:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:330:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(INITIAL_WIDTH, INITIAL_HEIGHT);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:332:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow("Ray Tracing");
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:334:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutReshapeFunc(reshape);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared here
+oextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:335:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(drawScene);
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:338:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o12 warnings and 1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp165"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o RayTracing2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerce8db1113634b941^96b28c123634b941^-7545"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:9:In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:21:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]#endif;      ^      //In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:12:/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h:22:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]#endif;      ^      ///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:69:21: error: no matching constructor for initialization of 'Light'        Light* light = new Light( Vector(60.0f, 120.0f, 40.0f), Color(1.0f, 1.0f, 1.0f) );                            ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:9:In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:10:2: note: candidate constructor not viable: expects an l-value for 1st argument        Light( Vector& position, Color& color )        ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:7:7: note: candidate constructor (the implicit copy constructor) not viable: requires 1 argument, but 2 were providedclass Light      ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:7:7: note: candidate constructor (the implicit move constructor) not viable: requires 1 argument, but 2 were provided/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:86:2: warning: 'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho" [-Wdeprecated-declarations]        gluOrtho2D(0, w, 0, h);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:276:13: note: 'gluOrtho2D' declared hereextern void gluOrtho2D (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeOrtho");            ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:144:8: warning: unused variable 'objColor' [-Wunused-variable]        Color objColor = object->getColor();              ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:313:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:328:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:329:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:330:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(INITIAL_WIDTH, INITIAL_HEIGHT);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:332:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow("Ray Tracing");        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:334:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutReshapeFunc(reshape);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:335:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(drawScene);        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:338:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:1:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^12 warnings and 1 error generated.13(36%IDEClangDiagnosticActivityLogMessage2@39"Extra tokens at end of #endif directive-422852114#18446744073709551615#0#2(2@83"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:9:-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^8#9#8#9#158#0#21"Apple LLVM 5.0 Notice--2@82"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h0000000000000000^8#9#8#9#130#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^20#6#20#6#258#0#29"Lexical or Preprocessor Issue1(3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^20#6#20#6#258#0#-2@39"Extra tokens at end of #endif directive-422852114#18446744073709551615#0#1(2@84"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp:12:-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^11#9#11#9#220#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@62"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h0000000000000000^21#6#21#6#318#0#29"Lexical or Preprocessor Issue1(3@62"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/box.h0000000000000000^21#6#21#6#318#0#-2@53"No matching constructor for initialization of 'Light'-422852114#18446744073709551615#0#3(2@69"Candidate constructor not viable: expects an l-value for 1st argument-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^9#1#9#1#105#0#14"Semantic Issue--2@106"Candidate constructor (the implicit copy constructor) not viable: requires 1 argument, but 2 were provided-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^6#6#6#6#85#0#14"Semantic Issue--2@106"Candidate constructor (the implicit move constructor) not viable: requires 1 argument, but 2 were provided-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^6#6#6#6#85#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^68#20#68#20#2008#0#14"Semantic Issue1(3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^68#27#68#80#2015#52#-2@85"'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho"-422852114#18446744073709551615#0#1(2@26"'gluOrtho2D' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^275#12#275#12#15525#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^85#1#85#1#2434#0#12"Deprecations--2@26"Unused variable 'objColor'-422852114#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^143#7#143#7#3977#0#19"Unused Entity Issue--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^312#1#312#1#8504#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@24"'glutInit' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^327#1#327#1#8785#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^328#1#328#1#8810#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^329#1#329#1#8858#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^331#1#331#1#8949#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^333#1#333#1#8987#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^334#1#334#1#9015#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-422852114#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^337#1#337#1#9064#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@65"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp0000000000000000^2848"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o RayTracing2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/main.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/main.o36"13B74268-6C71-4586-A22B-6ACB429AC32A-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852113.756617
+e422852113.796212
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp169"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o RayTracing2/object.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerafd2c1113634b941^ecd9cb113634b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp0000000000000000^2860"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o RayTracing2/object.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/object.o36"6F9CD39B-68A7-430A-A2E8-E57EF0E0B66A-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852112.959378
+e422852113.692324
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp163"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o RayTracing2/ray.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler09c2f5103634b941^d252b1113634b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp0000000000000000^2842"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o RayTracing2/ray.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/ray.o36"F9EF1723-649A-419A-BDBC-1ED813733530-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852113.692634
+e422852114.373000
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/camera.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:1:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:21:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+o#endif;
+o      ^
+o      //
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:34:9: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        return objects.size();
+o        ~~~~~~ ^~~~~~~~~~~~~~
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:46:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+o        if (index >= 0 && index < objects.size())
+o            ~~~~~ ^  ~
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:54:9: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        return lights.size();
+o        ~~~~~~ ^~~~~~~~~~~~~
+o/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:66:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+o        if (index >= 0 && index < lights.size())
+o            ~~~~~ ^  ~
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp167"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o RayTracing2/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler056ab1113634b941^577c5f123634b941^-1288"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:1:In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h:21:7: warning: extra tokens at end of #endif directive [-Wextra-tokens]#endif;      ^      ///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:34:9: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        return objects.size();        ~~~~~~ ^~~~~~~~~~~~~~/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:46:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]        if (index >= 0 && index < objects.size())            ~~~~~ ^  ~/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:54:9: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        return lights.size();        ~~~~~~ ^~~~~~~~~~~~~/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:66:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]        if (index >= 0 && index < lights.size())            ~~~~~ ^  ~5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@39"Extra tokens at end of #endif directive-422852114#18446744073709551615#0#2(2@84"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp:1:-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@82"In file included from /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h:9:-422852114#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.h0000000000000000^8#9#8#9#130#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^20#6#20#6#258#0#29"Lexical or Preprocessor Issue1(3@64"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/light.h0000000000000000^20#6#20#6#258#0#-2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'-422852114#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^33#8#33#8#463#0#22"Value Conversion Issue2(3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^33#8#33#22#463#13#3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^33#1#33#7#456#0#-2@53"Comparison of unsigned expression >= 0 is always true-422852114#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^45#11#45#11#615#0#14"Semantic Issue2(3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^45#5#45#10#609#0#3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^45#14#45#15#618#0#-2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'-422852114#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^53#8#53#8#734#0#22"Value Conversion Issue2(3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^53#8#53#21#734#12#3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^53#1#53#7#727#0#-2@53"Comparison of unsigned expression >= 0 is always true-422852114#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^65#11#65#11#880#0#14"Semantic Issue2(3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^65#5#65#10#874#0#3@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^65#14#65#15#883#0#-0#0#1#-19%DVTDocumentLocation4@66"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp0000000000000000^2854"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o RayTracing2/scene.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/scene.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/scene.o36"72000772-5DD8-4F20-BA48-41B727B61C62-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852112.960167
+e422852113.691912
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/object.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/color.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/ray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp169"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o RayTracing2/sphere.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler63eff5103634b941^d237b1113634b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp0000000000000000^2860"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o RayTracing2/sphere.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/sphere.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/sphere.o36"CCD9B6AF-1235-4992-BF0A-5FA27F820A86-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CCompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422852113.692641
+e422852113.799645
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o
+x/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp169"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o RayTracing2/vector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7f6db1113634b941^eeb5cc113634b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp0000000000000000^2860"CompileC build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o RayTracing2/vector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/RayTracing2-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.dia -c /Users/sashanicolas/Projects/OpenGLHW/RayTracing2/vector.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing2.build/Objects-normal/x86_64/vector.o36"92C247F2-DAA1-413C-8EC5-F7587BF72B83-
+b2A7EACA5-B78E-4B07-B7DE-B0C4C7E7ED0F
+
+CLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/RayTracing2 normal x86_64
+r0
+

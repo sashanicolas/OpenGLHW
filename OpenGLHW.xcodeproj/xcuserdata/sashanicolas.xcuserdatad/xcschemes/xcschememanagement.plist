@@ -39,6 +39,21 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Ray3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>RayTracing1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>RayTracing2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 		<key>Trab2Rendering.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -57,12 +72,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>B74BF313193432E000196328</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>B77FCE4E18FC91AA0024415E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>B77FCE5D18FCBB680024415E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B78878B9193434B9009C6348</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -88,6 +113,11 @@
 			<true/>
 		</dict>
 		<key>B7F3999718F46E9D00057156</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7FBA61B1934D7FD00E018F1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

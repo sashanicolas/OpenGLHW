@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1373136088 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/CaixaAlinhada.cpp
+	"CaixaAlinhada.h"
+	<iostream>
+
+1373136167 /home/andre/Área de Trabalho/trabalho3/RayTrace/CaixaAlinhada.h
+	"Vetor.h"
+	"Geometria.h"
+
+1373135248 /home/andre/Área de Trabalho/trabalho3/RayTrace/Vetor.h
+
+1373136194 /home/andre/Área de Trabalho/trabalho3/RayTrace/Geometria.h
+	"Vetor.h"
+	"raio.h"
+
+1373134736 /home/andre/Área de Trabalho/trabalho3/RayTrace/raio.h
+	"Vetor.h"
+
+1373135872 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/Camera.cpp
+	"Camera.h"
+	<math.h>
+	"raio.h"
+	<iostream>
+
+1373135886 /home/andre/Área de Trabalho/trabalho3/RayTrace/Camera.h
+	"Vetor.h"
+	"raio.h"
+
+1373130563 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/Geometria.cpp
+	"Geometria.h"
+
+1373135030 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/Vetor.cpp
+	"Vetor.h"
+	<iostream>
+	<math.h>
+
+1373130632 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/cena.cpp
+	<vector>
+	"Vetor.h"
+	"cena.h"
+
+1373134945 /home/andre/Área de Trabalho/trabalho3/RayTrace/cena.h
+	"Vetor.h"
+	"Geometria.h"
+	"luz.h"
+	<vector>
+
+1373134688 /home/andre/Área de Trabalho/trabalho3/RayTrace/luz.h
+	"Vetor.h"
+
+1308451878 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/esfera.cpp
+	"esfera.h"
+	"raio.h"
+	"Vetor.h"
+	<cmath>
+	<iostream>
+
+1373134932 /home/andre/Área de Trabalho/trabalho3/RayTrace/esfera.h
+	"Geometria.h"
+
+1308343894 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/luz.cpp
+	"luz.h"
+	"Vetor.h"
+
+1373135220 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/main.cpp
+	<math.h>
+	<vector>
+	<GL/glut.h>
+	<GL/gl.h>
+	"cena.h"
+	"Vetor.h"
+	"Camera.h"
+	"Geometria.h"
+	"esfera.h"
+	"CaixaAlinhada.h"
+	"luz.h"
+
+1307995960 source:/home/andre/Área de Trabalho/trabalho3/RayTrace/raio.cpp
+	"raio.h"
+
+1373293484 source:/home/andre/Área de Trabalho/RayTracing/CaixaAlinhada.cpp
+	"CaixaAlinhada.h"
+	<iostream>
+
+1373293508 /home/andre/Área de Trabalho/RayTracing/CaixaAlinhada.h
+	"Vetor.h"
+	"Geometria.h"
+
+1373293576 /home/andre/Área de Trabalho/RayTracing/Vetor.h
+
+1373287375 /home/andre/Área de Trabalho/RayTracing/Geometria.h
+	"Vetor.h"
+	"raio.h"
+	"material.h"
+
+1373293574 /home/andre/Área de Trabalho/RayTracing/raio.h
+	"Vetor.h"
+
+1373292732 source:/home/andre/Área de Trabalho/RayTracing/Camera.cpp
+	"Camera.h"
+	<math.h>
+	"raio.h"
+	<iostream>
+
+1373293531 /home/andre/Área de Trabalho/RayTracing/Camera.h
+	"Vetor.h"
+	"raio.h"
+
+1373243183 source:/home/andre/Área de Trabalho/RayTracing/Geometria.cpp
+	"Geometria.h"
+	"material.h"
+
+1373289817 source:/home/andre/Área de Trabalho/RayTracing/Vetor.cpp
+	"Vetor.h"
+	<iostream>
+	<math.h>
+
+1373285633 source:/home/andre/Área de Trabalho/RayTracing/cena.cpp
+	<vector>
+	"Vetor.h"
+	"cena.h"
+
+1373293576 /home/andre/Área de Trabalho/RayTracing/cena.h
+	"Vetor.h"
+	"Geometria.h"
+	"luz.h"
+	<vector>
+
+1373293576 /home/andre/Área de Trabalho/RayTracing/luz.h
+	"Vetor.h"
+
+1373290999 source:/home/andre/Área de Trabalho/RayTracing/esfera.cpp
+	"esfera.h"
+	"raio.h"
+	"Vetor.h"
+	<cmath>
+	<iostream>
+
+1373293576 /home/andre/Área de Trabalho/RayTracing/esfera.h
+	"Geometria.h"
+
+1373292464 source:/home/andre/Área de Trabalho/RayTracing/main.cpp
+	<math.h>
+	<vector>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<iostream>
+	"cena.h"
+	"Vetor.h"
+	"Camera.h"
+	"Geometria.h"
+	"esfera.h"
+	"CaixaAlinhada.h"
+	"luz.h"
+	"material.h"
+
+1373290969 source:/home/andre/Área de Trabalho/RayTracing/raio.cpp
+	"raio.h"
+
+1373250268 source:/home/andre/Área de Trabalho/RayTracing/luz.cpp
+	"luz.h"
+	"Vetor.h"
+
+1373290158 source:/home/andre/Área de Trabalho/RayTracing/material.cpp
+	"material.h"
+	"Vetor.h"
+
+1373290149 /home/andre/Área de Trabalho/RayTracing/material.h
+	"Vetor.h"
+
+1373293484 source:/home/andre/RayTracing/CaixaAlinhada.cpp
+	"CaixaAlinhada.h"
+	<iostream>
+
+1373293508 /home/andre/RayTracing/CaixaAlinhada.h
+	"Vetor.h"
+	"Geometria.h"
+
+1373293576 /home/andre/RayTracing/Vetor.h
+
+1373287375 /home/andre/RayTracing/Geometria.h
+	"Vetor.h"
+	"raio.h"
+	"material.h"
+
+1373293574 /home/andre/RayTracing/raio.h
+	"Vetor.h"
+
+1373380751 /home/andre/RayTracing/material.h
+	"Vetor.h"
+
+1373292732 source:/home/andre/RayTracing/Camera.cpp
+	"Camera.h"
+	<math.h>
+	"raio.h"
+	<iostream>
+
+1373293531 /home/andre/RayTracing/Camera.h
+	"Vetor.h"
+	"raio.h"
+
+1373243183 source:/home/andre/RayTracing/Geometria.cpp
+	"Geometria.h"
+	"material.h"
+
+1373289817 source:/home/andre/RayTracing/Vetor.cpp
+	"Vetor.h"
+	<iostream>
+	<math.h>
+
+1373285633 source:/home/andre/RayTracing/cena.cpp
+	<vector>
+	"Vetor.h"
+	"cena.h"
+
+1373293576 /home/andre/RayTracing/cena.h
+	"Vetor.h"
+	"Geometria.h"
+	"luz.h"
+	<vector>
+
+1373293576 /home/andre/RayTracing/luz.h
+	"Vetor.h"
+
+1373290999 source:/home/andre/RayTracing/esfera.cpp
+	"esfera.h"
+	"raio.h"
+	"Vetor.h"
+	<cmath>
+	<iostream>
+
+1373293576 /home/andre/RayTracing/esfera.h
+	"Geometria.h"
+
+1373250268 source:/home/andre/RayTracing/luz.cpp
+	"luz.h"
+	"Vetor.h"
+
+1373290158 source:/home/andre/RayTracing/material.cpp
+	"material.h"
+	"Vetor.h"
+
+1373290969 source:/home/andre/RayTracing/raio.cpp
+	"raio.h"
+
+1373379831 source:/home/andre/RayTracing/main.cpp
+	<math.h>
+	<vector>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<iostream>
+	"cena.h"
+	"Vetor.h"
+	"Camera.h"
+	"Geometria.h"
+	"esfera.h"
+	"CaixaAlinhada.h"
+	"luz.h"
+	"material.h"
+

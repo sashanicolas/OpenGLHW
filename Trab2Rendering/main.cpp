@@ -24,21 +24,12 @@ class Shader
     const char* GetMessage ();
     void Load ();
     void Unload ();
-    ￼void SetUniform
-    void SetUniform
-    void SetUniform
-    void SetUniform
-    void SetUniform
     void SetUniformI (const char* name, int x);
     void SetUniformI (const char* name, int x, int y);
     void SetUniformI (const char* name, int x, int y, int z);
     void SetUniformI (const char* name, int x, int y, int z, int w);
     void SetUniformI (const char* name, int size, int count, int* v) ;
     void SetUniformMatrix (const char* name, int row, int col, int count, float* v);
-    (const char* name, float x);
-    (const char* name, float x, float y);
-    (const char* name, float x, float y, float z);
-    (const char* name, float x, float y, float z, float w); (const char* name, int size, int count, float* v) ;
 };
 
 GLuint programID;

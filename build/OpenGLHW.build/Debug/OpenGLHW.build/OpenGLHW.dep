@@ -1,2 +1,4 @@
-000000000164414700000000000aadb2 4d2e1e1a8fc68494d319ad64eb6c98ba ffffffffffffffffffffffffffffffff 19120 /Users/sashanicolas/Projects/OpenGLHW/build/Debug/OpenGLHW
-000000000143bdcd0000000000000592 3b411c1d47534113b8c1cb76544fd804 ffffffffffffffffffffffffffffffff 20928 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/OpenGLHW.build/Objects-normal/x86_64/main.o
+000000000000005c00000000002f1332 4d2e1e1a8fc68494d319ad64eb6c98ba ffffffffffffffffffffffffffffffff 19120 /Users/sashanicolas/Projects/OpenGLHW/build/Debug/OpenGLHW
+000000000143bdcd0000000000000592 6d8aeb29c5cc8bc19458d54633573112 ffffffffffffffffffffffffffffffff 20928 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/OpenGLHW.build/Objects-normal/x86_64/main.o
+000000005278d5270000000000001d03 002d58c6f3ff1faaf937e364dcf7c030 000000005383c263000000000001223c 74300 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/OpenGLHW.build/Objects-normal/x86_64/dummy.o
+000000005391b3d50000000000002372 221954115512f8af240b3268e0b3dd57 000000005383c2640000000000249cbc 2399420 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/OpenGLHW.build/Objects-normal/x86_64/glm.o

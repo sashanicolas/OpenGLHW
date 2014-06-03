@@ -1,0 +1,10 @@
+0000000003b40622000000000000178a 330511c6e83117fa5f594537401242ac ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/main.o
+0000000003b28b860000000000000d73 8dd4f5d59cfee693ce15b9a6c97af39f ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/cena.o
+0000000003b2ed2800000000000007ce 61975a955e1d639dad0d230b326de275 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/CaixaAlinhada.o
+0000000003b221b40000000000000fc2 b395da30c4ef67c2811b2df57696fa54 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/Geometria.o
+0000000003b406080000000000000ed4 f95099d81d01ed6b8d075c63c5b6bf87 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/material.o
+0000000003b204580000000000000ff8 a7498c938045c0fc88a2050199407e55 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/luz.o
+0000000003b2e77c0000000000000b78 bb3440a59d8eecadec6c627abf8c01ff ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/esfera.o
+0000000003b2ee380000000000000ccb 2a83bead954cfdfe4e5d5f53167ac717 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/Camera.o
+0000000003b29bde0000000000000aa9 f887f619b13e7d5206b4a757e22903b3 ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/Vetor.o
+0000000003b2e75e0000000000000f22 cb359ba11cfb6d910abefb492b9ec74e ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/RayTracing1.build/Objects-normal/x86_64/raio.o

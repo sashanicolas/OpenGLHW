@@ -1,2 +1,4 @@
-000000000027fc8c0000000000096dba 978aef014cf35e72a7f4a0bab40468cb ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas
-00000000012c0d960000000000002eb8 d601658ad703f4d9cbd704ef6e1b4181 ffffffffffffffffffffffffffffffff 18588 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o
+000000000000005d00000000002f1332 978aef014cf35e72a7f4a0bab40468cb ffffffffffffffffffffffffffffffff 0 /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas
+00000000526826840000000000000f4e 4c115113b07810a94287f3865ce25151 ffffffffffffffffffffffffffffffff 18412 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o
+0000000001534e6e00000000000017df ee607447fcf18ccfb1fb0f815bc4c4ee 000000005383715a000000000001223c 74300 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o
+0000000000ba289c00000000000029ae da1a1b55b2e87cf8a697258dcea87cbe 000000005383715c0000000000249cbc 2399420 /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o

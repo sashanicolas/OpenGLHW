@@ -6,8 +6,8 @@ cCompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o 
 cLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas normal x86_64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
-c00000000532B9B6700000000000000AA
-t1395366759
+c0000000053471FE200000000000000AA
+t1397170146
 s170
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
@@ -19,6 +19,26 @@ N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 c00000000532B9B4600000000000001DE
 t1395366726
 s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000005268268C00000000000135D4
+t1382557324
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000532B9B47000000000000BB7C
+t1395366727
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000532B9B4700000000000211A0
+t1395366727
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000532B9B470000000000005F00
+t1395366727
+s24320
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 c00000000532B9B48000000000000681C
@@ -186,48 +206,783 @@ t1395366729
 s2780
 
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
-c00000000532B9B490000000000001770
-t1395366729
+c0000000053471FCA0000000000001770
+t1397170122
 s6000
 
 N/System/Library/Frameworks/GLUT.framework/GLUT
-c0000000052691A1500000000000F71B0
-t1382619669
+c000000005376303A00000000000F71B0
+t1400254522
 s1012144
 
 N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c00000000530D5B6E000000000002C960
-t1393384302
+c000000005376305B000000000002C960
+t1400254555
 s182624
 
 N/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp
-c0000000053442B1200000000000021F6
-t1396976402
-s8694
+c000000005383C32A0000000000002307
+t1401144106
+s8967
 
 N/Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas
 t2
 s0
 
 N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/Esferas.LinkFileList
-c0000000053442B29000000000000006C
-t1396976425
+c000000005383C32C000000000000006C
+t1401144108
 s108
 
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o
+c000000005383715A000000000001223C
+t1401123162
+s74300
+
+N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o
+c000000005383715C0000000000249CBC
+t1401123164
+s2399420
+
 N/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o
-t1396976427
-s18588
+t1401144109
+s18412
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/common.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_fixes.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_vectorize.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp
+c00000000533B68EA0000000000001891
+t1396402410
+s6289
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp
+c0000000052D20E1800000000000026E0
+t1389497880
+s9952
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/precision.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_float.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/exponential.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/geometric.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/matrix_transform.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/matrix_transform.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtx/transform.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtx/transform.inl
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/integer.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/matrix.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/packing.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/trigonometric.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec2.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec3.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec4.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vector_relational.hpp
+c00000000000000000000000000000000
+t2
+s0
 
 CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp
 r0
 
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp
+r0
+
+CBuild AST from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesad6e79bc62f4b841^08007ebc62f4b841^---0#1#1#--18"Check dependencies36"67B5AC3A-06A5-48C7-AABF-5853C44FC41F-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0938a4acfa33b941^a14ba8acfa33b941^---0#1#1#--18"Check dependencies36"F4C77A6A-ED88-498C-8522-D6EE41AD1B22-
+
+CCompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422815961.221948
+e422815962.420978
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o
+x/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_fixes.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_float.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/precision.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/trigonometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_vectorize.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/exponential.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/common.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/packing.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/geometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/matrix.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vector_relational.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/integer.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/matrix_transform.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/matrix_transform.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_precision.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_precision.inl
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:87:11: warning: GLM: Apple platform detected [-W#pragma-messages]
+o#               pragma message("GLM: Apple platform detected")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:331:11: warning: GLM: Clang compiler detected [-W#pragma-messages]
+o#               pragma message("GLM: Clang compiler detected")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:371:11: warning: GLM: 64 bits model [-W#pragma-messages]
+o#               pragma message("GLM: 64 bits model")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:472:11: warning: GLM: C++11 [-W#pragma-messages]
+o#               pragma message("GLM: C++11")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:482:10: warning: GLM: #define GLM_FORCE_CXX98, GLM_FORCE_CXX03, GLM_LANG_CXX11 or GLM_FORCE_CXX1Y to force using a specific version of the C++ language [-W#pragma-messages]
+o#       pragma message("GLM: #define GLM_FORCE_CXX98, GLM_FORCE_CXX03, GLM_LANG_CXX11 or GLM_FORCE_CXX1Y to force using a specific version of the C++ language")
+o               ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:630:11: warning: GLM: Platform independent code [-W#pragma-messages]
+o#               pragma message("GLM: Platform independent code")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:642:10: warning: GLM: #define GLM_FORCE_PURE to avoid using platform specific instruction sets [-W#pragma-messages]
+o#       pragma message("GLM: #define GLM_FORCE_PURE to avoid using platform specific instruction sets")
+o               ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:710:11: warning: GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators [-W#pragma-messages]
+o#               pragma message("GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:733:11: warning: GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification [-W#pragma-messages]
+o#               pragma message("GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification")
+o                       ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:734:11: warning: GLM: #define GLM_FORCE_SIZE_T_LENGTH for .length() to return a std::size_t [-W#pragma-messages]
+o#               pragma message("GLM: #define GLM_FORCE_SIZE_T_LENGTH for .length() to return a std::size_t")
+o                       ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:92:10: warning: GLM: Core library included [-W#pragma-messages]
+o#       pragma message("GLM: Core library included")
+o               ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:87:
+othird_party/include/glm/gtc/matrix_transform.hpp:56:10: warning: GLM: GLM_GTC_matrix_transform extension included [-W#pragma-messages]
+o#       pragma message("GLM: GLM_GTC_matrix_transform extension included")
+o               ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:
+oIn file included from third_party/include/glm/gtc/type_ptr.hpp:63:
+oIn file included from third_party/include/glm/gtc/../gtc/quaternion.hpp:48:
+othird_party/include/glm/gtc/../gtc/constants.hpp:46:10: warning: GLM: GLM_GTC_constants extension included [-W#pragma-messages]
+o#       pragma message("GLM: GLM_GTC_constants extension included")
+o               ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:
+oIn file included from third_party/include/glm/gtc/type_ptr.hpp:63:
+othird_party/include/glm/gtc/../gtc/quaternion.hpp:51:10: warning: GLM: GLM_GTC_quaternion extension included [-W#pragma-messages]
+o#       pragma message("GLM: GLM_GTC_quaternion extension included")
+o               ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:
+othird_party/include/glm/gtc/type_ptr.hpp:79:10: warning: GLM: GLM_GTC_type_ptr extension included [-W#pragma-messages]
+o#       pragma message("GLM: GLM_GTC_type_ptr extension included")
+o               ^
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:104:
+othird_party/include/glm/gtc/type_precision.hpp:62:10: warning: GLM: GLM_GTC_type_precision extension included [-W#pragma-messages]
+o#       pragma message("GLM: GLM_GTC_type_precision extension included")
+o               ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:107:19: warning: unused variable 'PositionSizeF32' [-Wunused-const-variable]
+ostd::size_t const PositionSizeF32 = VertexCount * sizeof(glm::vec2);
+o                  ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:116:19: warning: unused variable 'PositionSizeF16' [-Wunused-const-variable]
+ostd::size_t const PositionSizeF16 = VertexCount * sizeof(glm::uint);
+o                  ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:125:19: warning: unused variable 'PositionSizeI8' [-Wunused-const-variable]
+ostd::size_t const PositionSizeI8 = VertexCount * sizeof(glm::i8vec2);
+o                  ^
+o/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:134:19: warning: unused variable 'PositionSizeI32' [-Wunused-const-variable]
+ostd::size_t const PositionSizeI32 = VertexCount * sizeof(glm::i32vec2);
+o                  ^
+o20 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp182"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o third_party/include/glm/detail/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler74ec38d9a833b941^34846bdaa833b941^-6459"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:87:11: warning: GLM: Apple platform detected [-W#pragma-messages]#               pragma message("GLM: Apple platform detected")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:331:11: warning: GLM: Clang compiler detected [-W#pragma-messages]#               pragma message("GLM: Clang compiler detected")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:371:11: warning: GLM: 64 bits model [-W#pragma-messages]#               pragma message("GLM: 64 bits model")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:472:11: warning: GLM: C++11 [-W#pragma-messages]#               pragma message("GLM: C++11")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:482:10: warning: GLM: #define GLM_FORCE_CXX98, GLM_FORCE_CXX03, GLM_LANG_CXX11 or GLM_FORCE_CXX1Y to force using a specific version of the C++ language [-W#pragma-messages]#       pragma message("GLM: #define GLM_FORCE_CXX98, GLM_FORCE_CXX03, GLM_LANG_CXX11 or GLM_FORCE_CXX1Y to force using a specific version of the C++ language")               ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:630:11: warning: GLM: Platform independent code [-W#pragma-messages]#               pragma message("GLM: Platform independent code")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:642:10: warning: GLM: #define GLM_FORCE_PURE to avoid using platform specific instruction sets [-W#pragma-messages]#       pragma message("GLM: #define GLM_FORCE_PURE to avoid using platform specific instruction sets")               ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:710:11: warning: GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators [-W#pragma-messages]#               pragma message("GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:733:11: warning: GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification [-W#pragma-messages]#               pragma message("GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification")                       ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp:734:11: warning: GLM: #define GLM_FORCE_SIZE_T_LENGTH for .length() to return a std::size_t [-W#pragma-messages]#               pragma message("GLM: #define GLM_FORCE_SIZE_T_LENGTH for .length() to return a std::size_t")                       ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:92:10: warning: GLM: Core library included [-W#pragma-messages]#       pragma message("GLM: Core library included")               ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:87:third_party/include/glm/gtc/matrix_transform.hpp:56:10: warning: GLM: GLM_GTC_matrix_transform extension included [-W#pragma-messages]#       pragma message("GLM: GLM_GTC_matrix_transform extension included")               ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:In file included from third_party/include/glm/gtc/type_ptr.hpp:63:In file included from third_party/include/glm/gtc/../gtc/quaternion.hpp:48:third_party/include/glm/gtc/../gtc/constants.hpp:46:10: warning: GLM: GLM_GTC_constants extension included [-W#pragma-messages]#       pragma message("GLM: GLM_GTC_constants extension included")               ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:In file included from third_party/include/glm/gtc/type_ptr.hpp:63:third_party/include/glm/gtc/../gtc/quaternion.hpp:51:10: warning: GLM: GLM_GTC_quaternion extension included [-W#pragma-messages]#       pragma message("GLM: GLM_GTC_quaternion extension included")               ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:third_party/include/glm/gtc/type_ptr.hpp:79:10: warning: GLM: GLM_GTC_type_ptr extension included [-W#pragma-messages]#       pragma message("GLM: GLM_GTC_type_ptr extension included")               ^In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:104:third_party/include/glm/gtc/type_precision.hpp:62:10: warning: GLM: GLM_GTC_type_precision extension included [-W#pragma-messages]#       pragma message("GLM: GLM_GTC_type_precision extension included")               ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:107:19: warning: unused variable 'PositionSizeF32' [-Wunused-const-variable]std::size_t const PositionSizeF32 = VertexCount * sizeof(glm::vec2);                  ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:116:19: warning: unused variable 'PositionSizeF16' [-Wunused-const-variable]std::size_t const PositionSizeF16 = VertexCount * sizeof(glm::uint);                  ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:125:19: warning: unused variable 'PositionSizeI8' [-Wunused-const-variable]std::size_t const PositionSizeI8 = VertexCount * sizeof(glm::i8vec2);                  ^/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:134:19: warning: unused variable 'PositionSizeI32' [-Wunused-const-variable]std::size_t const PositionSizeI32 = VertexCount * sizeof(glm::i32vec2);                  ^20 warnings generated.20(36%IDEClangDiagnosticActivityLogMessage2@28"GLM: Apple platform detected-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^86#10#86#10#3468#0#25"#pragma message Directive--2@28"GLM: Clang compiler detected-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^330#10#330#10#12228#0#25"#pragma message Directive--2@18"GLM: 64 bits model-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^370#10#370#10#13756#0#25"#pragma message Directive--2@10"GLM: C++11-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^471#10#471#10#17024#0#25"#pragma message Directive--2@134"GLM: #define GLM_FORCE_CXX98, GLM_FORCE_CXX03, GLM_LANG_CXX11 or GLM_FORCE_CXX1Y to force using a specific version of the C++ language-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^481#9#481#9#17354#0#25"#pragma message Directive--2@30"GLM: Platform independent code-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^629#10#629#10#23328#0#25"#pragma message Directive--2@77"GLM: #define GLM_FORCE_PURE to avoid using platform specific instruction sets-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^641#9#641#9#23807#0#25"#pragma message Directive--2@82"GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^709#10#709#10#26131#0#25"#pragma message Directive--2@87"GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^732#10#732#10#26825#0#25"#pragma message Directive--2@74"GLM: #define GLM_FORCE_SIZE_T_LENGTH for .length() to return a std::size_t-422815962#18446744073709551615#0#4(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../glm.hpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^87#9#87#9#3871#0#21"Apple LLVM 5.0 Notice--2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../fwd.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp0000000000000000^31#9#31#9#1560#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/../detail/type_int.hpp:32:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp0000000000000000^31#9#31#9#1574#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp0000000000000000^733#10#733#10#26935#0#25"#pragma message Directive--2@26"GLM: Core library included-422815962#18446744073709551615#0#1(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:34:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^33#9#33#9#1689#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@76"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp0000000000000000^91#9#91#9#4016#0#25"#pragma message Directive--2@48"GLM: GLM_GTC_matrix_transform extension included-422815962#18446744073709551615#0#1(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:87:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^86#9#86#9#2896#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@93"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/matrix_transform.hpp0000000000000000^55#9#55#9#2523#0#25"#pragma message Directive--2@41"GLM: GLM_GTC_constants extension included-422815962#18446744073709551615#0#3(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^87#9#87#9#2998#0#21"Apple LLVM 5.0 Notice--2@66"In file included from third_party/include/glm/gtc/type_ptr.hpp:63:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.hpp0000000000000000^62#9#62#9#2621#0#21"Apple LLVM 5.0 Notice--2@75"In file included from third_party/include/glm/gtc/../gtc/quaternion.hpp:48:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^47#9#47#9#2058#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.hpp0000000000000000^45#9#45#9#1988#0#25"#pragma message Directive--2@42"GLM: GLM_GTC_quaternion extension included-422815962#18446744073709551615#0#2(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^87#9#87#9#2998#0#21"Apple LLVM 5.0 Notice--2@66"In file included from third_party/include/glm/gtc/type_ptr.hpp:63:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.hpp0000000000000000^62#9#62#9#2621#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^50#9#50#9#2151#0#25"#pragma message Directive--2@40"GLM: GLM_GTC_type_ptr extension included-422815962#18446744073709551615#0#1(2@104"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:88:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^87#9#87#9#2998#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_ptr.hpp0000000000000000^78#9#78#9#3041#0#25"#pragma message Directive--2@46"GLM: GLM_GTC_type_precision extension included-422815962#18446744073709551615#0#1(2@105"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp:104:-422815962#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^103#9#103#9#3800#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@91"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/type_precision.hpp0000000000000000^61#9#61#9#2522#0#25"#pragma message Directive--2@33"Unused variable 'PositionSizeF32'-422815962#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^106#18#106#18#3936#0#19"Unused Entity Issue--2@33"Unused variable 'PositionSizeF16'-422815962#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^115#18#115#18#4194#0#19"Unused Entity Issue--2@32"Unused variable 'PositionSizeI8'-422815962#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^124#18#124#18#4588#0#19"Unused Entity Issue--2@33"Unused variable 'PositionSizeI32'-422815962#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^133#18#133#18#4843#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp0000000000000000^2836"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o third_party/include/glm/detail/dummy.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.dia -c /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/dummy.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/dummy.o36"D3090C4D-A498-46C8-9F52-CA54988349D2-
+b4AE71D2B-4BB9-421E-A7B7-3C48F248E13E
+
+CCompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s422815961.221539
+e422815964.232419
+r1
+xCompileC
+xbuild/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o
+x/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/glm.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_fixes.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/fwd.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_int.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/setup.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_float.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/precision.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vec4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat2x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat2x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat3x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat3x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x2.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x3.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/mat4x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_mat4x4.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/trigonometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_trigonometric.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/_vectorize.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_vec1.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/exponential.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_exponential.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_vector_relational.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/common.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_common.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/packing.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_packing.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/type_half.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/geometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_geometric.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/matrix.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_matrix.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/vector_relational.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/integer.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/func_integer.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/constants.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtx/dual_quaternion.hpp
+d/Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtx/dual_quaternion.inl
+oIn file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:
+oIn file included from third_party/include/glm/gtc/quaternion.hpp:401:
+othird_party/include/glm/gtc/quaternion.inl:626:11: warning: GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+othird_party/include/glm/gtc/quaternion.inl:653:11: warning: GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+othird_party/include/glm/gtc/quaternion.inl:667:11: warning: GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+othird_party/include/glm/gtc/quaternion.inl:681:11: warning: GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+othird_party/include/glm/gtc/quaternion.inl:811:11: warning: GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+othird_party/include/glm/gtc/quaternion.inl:841:11: warning: GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]
+o#               pragma message("GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")
+o                       ^
+o6 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp178"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o third_party/include/glm/detail/glm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf6d238d9a833b941^287f3bdca833b941^-2671"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:In file included from third_party/include/glm/gtc/quaternion.hpp:401:third_party/include/glm/gtc/quaternion.inl:626:11: warning: GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^third_party/include/glm/gtc/quaternion.inl:653:11: warning: GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^third_party/include/glm/gtc/quaternion.inl:667:11: warning: GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^third_party/include/glm/gtc/quaternion.inl:681:11: warning: GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^third_party/include/glm/gtc/quaternion.inl:811:11: warning: GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^third_party/include/glm/gtc/quaternion.inl:841:11: warning: GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message. [-W#pragma-messages]#               pragma message("GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.")                       ^6 warnings generated.6(36%IDEClangDiagnosticActivityLogMessage2@144"GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^625#10#625#10#14879#0#25"#pragma message Directive--2@130"GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^652#10#652#10#15805#0#25"#pragma message Directive--2@131"GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^666#10#666#10#16323#0#25"#pragma message Directive--2@129"GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^680#10#680#10#16791#0#25"#pragma message Directive--2@131"GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^810#10#810#10#20209#0#25"#pragma message Directive--2@147"GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.-422815964#18446744073709551615#0#2(2@102"In file included from /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp:30:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^29#9#29#9#1532#0#21"Apple LLVM 5.0 Notice--2@69"In file included from third_party/include/glm/gtc/quaternion.hpp:401:-422815964#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.hpp0000000000000000^400#9#400#9#13241#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/gtc/quaternion.inl0000000000000000^840#10#840#10#21021#0#25"#pragma message Directive--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp0000000000000000^2824"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o third_party/include/glm/detail/glm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.dia -c /Users/sashanicolas/Projects/OpenGLHW/third_party/include/glm/detail/glm.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/glm.o36"EA121757-9B62-407D-8C50-DDE43AE86A03-
+b4AE71D2B-4BB9-421E-A7B7-3C48F248E13E
 
 CCompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s418669225.445068
-e418669227.335535
+s422836908.659178
+e422836909.605306
 r1
 xCompileC
 xbuild/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o
@@ -237,7 +992,7 @@ xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:241:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:245:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]
 o    gluPerspective(50.0f,(float)vp[2]/vp[3],1.0,100.0);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
@@ -245,7 +1000,7 @@ oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacO
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared here
 oextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");
 o            ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:246:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:250:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]
 o    gluLookAt(0,7,15,0,0,0,0,1,0);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
@@ -253,63 +1008,63 @@ oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacO
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared here
 oextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");
 o            ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:251:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:255:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutSwapBuffers();
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared here
 oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:273:5: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:277:5: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutInit(&argc, argv);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared here
 oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:274:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:278:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutInitDisplayMode(GLUT_DOUBLE | GLUT_DEPTH | GLUT_RGB);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared here
 oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:275:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:279:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutInitWindowSize(800,600);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared here
 oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:278:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:282:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutCreateWindow ("Spheres");
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared here
 oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
 o                    ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:279:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:283:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutReshapeFunc(Reshape);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared here
 oextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:280:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:284:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutDisplayFunc(Display);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared here
 oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:281:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:285:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutKeyboardFunc(Keyboard);
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
 o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:507:22: note: 'glutKeyboardFunc' declared here
 oextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
-o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:287:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:291:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
 o    glutMainLoop();
 o    ^
 oIn file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:
@@ -317,12 +1072,12 @@ o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
 o                     ^
 o11 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp157"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o Esferas/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler346973a962f4b841^f20c56ab62f4b841^-7187"/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:241:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]    gluPerspective(50.0f,(float)vp[2]/vp[3],1.0,100.0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared hereextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");            ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:246:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]    gluLookAt(0,7,15,0,0,0,0,1,0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared hereextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");            ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:251:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSwapBuffers();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:273:5: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInit(&argc, argv);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:274:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitDisplayMode(GLUT_DOUBLE | GLUT_DEPTH | GLUT_RGB);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:275:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitWindowSize(800,600);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:278:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutCreateWindow ("Spheres");    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:279:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutReshapeFunc(Reshape);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:280:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutDisplayFunc(Display);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:281:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutKeyboardFunc(Keyboard);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:507:22: note: 'glutKeyboardFunc' declared hereextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:287:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutMainLoop();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@95"'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective"-418669227#18446744073709551615#0#1(2@30"'gluPerspective' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^277#12#277#12#15841#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^240#4#240#4#7766#0#12"Deprecations--2@85"'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt"-418669227#18446744073709551615#0#1(2@25"'gluLookAt' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^264#12#264#12#14161#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^245#4#245#4#7912#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^250#4#250#4#7992#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@24"'glutInit' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^272#4#272#4#8316#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^273#4#273#4#8343#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^274#4#274#4#8405#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^277#4#277#4#8464#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^278#4#278#4#8498#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^279#4#279#4#8528#0#12"Deprecations--2@63"'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@32"'glutKeyboardFunc' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^506#21#506#21#17667#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^280#4#280#4#8558#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-418669227#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-418669227#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^286#4#286#4#8662#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^2768"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o Esferas/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.dia -c /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o36"B1F5E115-E7F2-4254-86ED-270412D28CB6-
-b0BE1FDFA-50AA-4373-8D8F-2B670E28122F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp157"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o Esferas/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerffd0a8acfa33b941^bff49aadfa33b941^-7187"/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:245:5: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]    gluPerspective(50.0f,(float)vp[2]/vp[3],1.0,100.0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared hereextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");            ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:250:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]    gluLookAt(0,7,15,0,0,0,0,1,0);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared hereextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");            ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:255:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSwapBuffers();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:277:5: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInit(&argc, argv);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:278:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitDisplayMode(GLUT_DOUBLE | GLUT_DEPTH | GLUT_RGB);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:279:5: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitWindowSize(800,600);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:282:5: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutCreateWindow ("Spheres");    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:283:5: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutReshapeFunc(Reshape);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:284:5: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutDisplayFunc(Display);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:285:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutKeyboardFunc(Keyboard);    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:507:22: note: 'glutKeyboardFunc' declared hereextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:291:5: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutMainLoop();    ^In file included from /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp:2:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@95"'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective"-422836909#18446744073709551615#0#1(2@30"'gluPerspective' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^277#12#277#12#15841#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^244#4#244#4#8039#0#12"Deprecations--2@85"'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt"-422836909#18446744073709551615#0#1(2@25"'gluLookAt' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^264#12#264#12#14161#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^249#4#249#4#8185#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^254#4#254#4#8265#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@24"'glutInit' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^276#4#276#4#8589#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^277#4#277#4#8616#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^278#4#278#4#8678#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^281#4#281#4#8737#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^282#4#282#4#8771#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^283#4#283#4#8801#0#12"Deprecations--2@63"'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@32"'glutKeyboardFunc' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^506#21#506#21#17667#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^284#4#284#4#8831#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-422836909#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-422836909#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/GLUT.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^290#4#290#4#8935#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp0000000000000000^2784"CompileC build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o Esferas/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sashanicolas/Projects/OpenGLHW    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/sashanicolas/Projects/OpenGLHW/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-generated-files.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-own-target-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-all-target-headers.hmap -iquote /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Esferas-project-headers.hmap -I/Users/sashanicolas/Projects/OpenGLHW/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Ithird_party/include -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources/x86_64 -I/Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/DerivedSources -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -MMD -MT dependencies -MF /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.dia -c /Users/sashanicolas/Projects/OpenGLHW/Esferas/main.cpp -o /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/main.o36"1E00AD4C-EA88-44F1-8A7B-C9F1DBD821D0-
+bDDDC1D1E-AFD0-4595-92EF-1F0AFA1B8EEC
 
 CLd /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas normal x86_64
-s418669244.494856
-e418669244.702594
+s422836909.608464
+e422836909.791425
 r1
 xLd
 x/Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas
@@ -367,6 +1122,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Link /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas36"Ld build/Debug/Esferas normal x86_6406be7ebc62f4b841^bfd6b5bc62f4b841^---0#0#1#--880"Ld build/Debug/Esferas normal x86_64    cd /Users/sashanicolas/Projects/OpenGLHW    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/sashanicolas/Projects/OpenGLHW/build/Debug -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -filelist /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/Esferas.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/Esferas_dependency_info.dat -o /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas36"7A705189-6206-4575-B685-9340ED351DE4-
-b40A86B7F-07FA-4CDD-AD4A-8DE167722211
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Link /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas36"Ld build/Debug/Esferas normal x86_640ad79badfa33b941^d89dcaadfa33b941^---0#0#1#--880"Ld build/Debug/Esferas normal x86_64    cd /Users/sashanicolas/Projects/OpenGLHW    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/sashanicolas/Projects/OpenGLHW/build/Debug -F/Users/sashanicolas/Projects/OpenGLHW/build/Debug -filelist /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/Esferas.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/sashanicolas/Projects/OpenGLHW/build/OpenGLHW.build/Debug/Esferas.build/Objects-normal/x86_64/Esferas_dependency_info.dat -o /Users/sashanicolas/Projects/OpenGLHW/build/Debug/Esferas36"D6537B55-C5B1-493D-9260-32324BB34A1D-
+bDDDC1D1E-AFD0-4595-92EF-1F0AFA1B8EEC
 

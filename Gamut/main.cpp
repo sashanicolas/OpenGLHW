@@ -133,10 +133,6 @@ void getColorXYZ(float *X, float *Y, float *Z){
 
 // Draw scene
 static void DrawScene(){
-    // position light
-//    float lpos[4] = {0.0f,100.0f,0.0f,1.0f};
-    //glLightfv(GL_LIGHT0,GL_POSITION,lpos);
-
     //desenhar cubo limitante
     DrawCube();
 
@@ -189,17 +185,6 @@ static void Keyboard (unsigned char key, int x, int y){
 static void Init(){
     float white[4] = {1.0f,1.0f,1.0f,1.0f};
     glClearColor(0, 0, 0, 1.0f);
-    //glEnable(GL_DEPTH_TEST);
-    
-    //glEnable(GL_LIGHTING);
-    //glEnable(GL_LIGHT0);
-    //glEnable(GL_COLOR_MATERIAL);
-    //glEnable(GL_NORMALIZE);
-    //glColorMaterial(GL_FRONT_AND_BACK,GL_AMBIENT_AND_DIFFUSE);
-    //glMaterialfv(GL_FRONT_AND_BACK,GL_SPECULAR,white);
-    //glMaterialf(GL_FRONT_AND_BACK,GL_SHININESS,50.0);
-    //glLightModeli(GL_LIGHT_MODEL_LOCAL_VIEWER,1);
-    
     
     float X, Y, Z;
     float r, g, b;
@@ -217,11 +202,11 @@ static void Init(){
         
         
         //passar pra RGB
-//        corCIEXYZtoCIERGB(X,Y,Z, &r, &g, &b);
+        corCIEXYZtoCIERGB(X,Y,Z, &r, &g, &b);
         
-  //      points[n][0] = r;
-    //    points[n][1] = g;
-      //  points[n][2] = b;
+        points[n][0] = r;
+        points[n][1] = g;
+        points[n][2] = b;
         
         n++;
     }
@@ -276,7 +261,6 @@ void mouseButton(int button, int state, int x, int y)
 	}
 }
 
-
 // Main function
 int main (int argc, char* argv[]){
     srand(time(NULL));
@@ -286,14 +270,16 @@ int main (int argc, char* argv[]){
     glutInitWindowSize(800,600);
     
     // create window
-    glutCreateWindow ("Spheres");
+    glutCreateWindow ("Gamut - CIE RGB");
     glutReshapeFunc(Reshape);
     glutDisplayFunc(Display);
     glutKeyboardFunc(Keyboard);
     glutMouseFunc(mouseButton); // process mouse button push/release
 	glutMotionFunc(mouseMove); // process mouse dragging motion
     glutIdleFunc(update); // incremental update
-	
+    
+	// OpenGL init
+	glEnable(GL_DEPTH_TEST);
     
     // initiate OpenGL context
     Init();
